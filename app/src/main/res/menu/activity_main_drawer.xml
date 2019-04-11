@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <!--<group android:checkableBehavior="none">
+
+        <item
+            android:id="@+id/csv"
+            android:title="format csv" />
+
+    </group>-->
+    <group>
+        <item
+            android:id="@+id/viewplace"
+            android:title="@string/view_Places" />
+        <item
+            android:id="@+id/offline"
+            android:title="@string/offline_mode"/>
+        <item
+            android:id="@+id/logout"
+            android:title="@string/logout_bangla" />
+    </group>
+</menu>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer name="slide_animation_duration">200</integer>
+    <integer name="level2">15</integer>
+    <integer name="level3">150</integer>
+    <integer name="level4">1000</integer>
+    <integer name="level5">3000</integer>
+</resources>
